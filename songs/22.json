@@ -1,51 +1,32 @@
-{
-  "createdAt": 1778179999,
-  "version": 1,
-  "events": [
-    {"state":"down","t":0.00,"key":"Six"},
-    {"state":"up","t":0.10,"key":"Six"},
+{"createdAt":1778179999,"version":1,"events":[
+{"state":"down","t":0.00,"key":"One"},{"state":"down","t":0.00,"key":"Eight"},{"state":"up","t":0.08,"key":"One"},{"state":"up","t":0.08,"key":"Eight"},
 
-    {"state":"down","t":0.20,"key":"E"},
-    {"state":"up","t":0.30,"key":"E"},
+{"state":"down","t":0.16,"key":"Six"},{"state":"up","t":0.24,"key":"Six"},
 
-    {"state":"down","t":0.40,"key":"R"},
-    {"state":"up","t":0.50,"key":"R"},
+{"state":"down","t":0.32,"key":"W"},{"state":"up","t":0.40,"key":"W"},
 
-    {"state":"down","t":0.60,"key":"Six"},
-    {"state":"up","t":0.70,"key":"Six"},
+{"state":"down","t":0.48,"key":"Eight"},{"state":"up","t":0.56,"key":"Eight"},
 
-    {"state":"down","t":0.80,"key":"Eight"},
-    {"state":"up","t":0.90,"key":"Eight"},
+{"state":"down","t":0.64,"key":"LeftShift"},{"state":"down","t":0.66,"key":"Six"},
+{"state":"up","t":0.72,"key":"Six"},{"state":"up","t":0.74,"key":"LeftShift"},
 
-    {"state":"down","t":1.00,"key":"LeftShift"},
-    {"state":"down","t":1.02,"key":"E"},
-    {"state":"up","t":1.10,"key":"E"},
-    {"state":"up","t":1.12,"key":"LeftShift"},
+{"state":"down","t":0.80,"key":"One"},{"state":"up","t":0.88,"key":"One"},
 
-    {"state":"down","t":1.20,"key":"R"},
-    {"state":"up","t":1.30,"key":"R"},
+{"state":"down","t":0.96,"key":"Eight"},{"state":"up","t":1.04,"key":"Eight"},
 
-    {"state":"down","t":1.40,"key":"Six"},
-    {"state":"up","t":1.50,"key":"Six"},
+{"state":"down","t":1.12,"key":"Six"},{"state":"up","t":1.20,"key":"Six"},
 
-    {"state":"down","t":1.60,"key":"Eight"},
-    {"state":"up","t":1.70,"key":"Eight"},
+{"state":"down","t":1.28,"key":"W"},{"state":"up","t":1.36,"key":"W"},
 
-    {"state":"down","t":1.80,"key":"E"},
-    {"state":"up","t":1.90,"key":"E"},
+{"state":"down","t":1.44,"key":"Eight"},{"state":"up","t":1.52,"key":"Eight"},
 
-    {"state":"down","t":2.00,"key":"R"},
-    {"state":"up","t":2.10,"key":"R"},
+{"state":"down","t":1.60,"key":"One"},{"state":"down","t":1.62,"key":"Six"},
+{"state":"up","t":1.68,"key":"One"},{"state":"up","t":1.70,"key":"Six"},
 
-    {"state":"down","t":2.20,"key":"Six"},
-    {"state":"up","t":2.30,"key":"Six"},
+{"state":"down","t":1.76,"key":"LeftShift"},{"state":"down","t":1.78,"key":"Eight"},
+{"state":"up","t":1.84,"key":"Eight"},{"state":"up","t":1.86,"key":"LeftShift"},
 
-    {"state":"down","t":2.40,"key":"Eight"},
-    {"state":"up","t":2.50,"key":"Eight"},
+{"state":"down","t":1.92,"key":"W"},{"state":"up","t":2.00,"key":"W"},
 
-    {"state":"down","t":2.60,"key":"LeftShift"},
-    {"state":"down","t":2.62,"key":"R"},
-    {"state":"up","t":2.70,"key":"R"},
-    {"state":"up","t":2.72,"key":"LeftShift"}
-  ]
-}
+{"state":"down","t":2.08,"key":"Six"},{"state":"up","t":2.16,"key":"Six"}
+]}
