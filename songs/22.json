@@ -2,137 +2,28 @@
   "name": "Матадор (DJ ASUL)",
   "author": "Ганвест / DJ ASUL",
   "type": "keyboard_macro",
+  "createdAt": 1778171655,
   "version": 1,
   "events": [
-    {
-      "state": "down",
-      "t": 0.5,
-      "key": "Six"
-    },
-    {
-      "state": "up",
-      "t": 0.6,
-      "key": "Six"
-    },
-    {
-      "state": "down",
-      "t": 1.0,
-      "key": "Eight"
-    },
-    {
-      "state": "up",
-      "t": 1.1,
-      "key": "Eight"
-    },
-    {
-      "state": "down",
-      "t": 1.5,
-      "key": "Zero"
-    },
-    {
-      "state": "up",
-      "t": 1.6,
-      "key": "Zero"
-    },
-    {
-      "state": "down",
-      "t": 2.0,
-      "key": "E"
-    },
-    {
-      "state": "up",
-      "t": 2.1,
-      "key": "E"
-    },
-    {
-      "state": "down",
-      "t": 2.5,
-      "key": "R"
-    },
-    {
-      "state": "up",
-      "t": 2.6,
-      "key": "R"
-    },
-    {
-      "state": "down",
-      "t": 3.0,
-      "key": "Six"
-    },
-    {
-      "state": "down",
-      "t": 3.0,
-      "key": "Eight"
-    },
-    {
-      "state": "down",
-      "t": 3.0,
-      "key": "Zero"
-    },
-    {
-      "state": "up",
-      "t": 3.15,
-      "key": "Six"
-    },
-    {
-      "state": "up",
-      "t": 3.15,
-      "key": "Eight"
-    },
-    {
-      "state": "up",
-      "t": 3.15,
-      "key": "Zero"
-    },
-    {
-      "state": "down",
-      "t": 3.5,
-      "key": "T"
-    },
-    {
-      "state": "up",
-      "t": 3.6,
-      "key": "T"
-    },
-    {
-      "state": "down",
-      "t": 4.0,
-      "key": "R"
-    },
-    {
-      "state": "up",
-      "t": 4.1,
-      "key": "R"
-    },
-    {
-      "state": "down",
-      "t": 4.5,
-      "key": "E"
-    },
-    {
-      "state": "up",
-      "t": 4.6,
-      "key": "E"
-    },
-    {
-      "state": "down",
-      "t": 5.0,
-      "key": "Four"
-    },
-    {
-      "state": "down",
-      "t": 5.0,
-      "key": "Six"
-    },
-    {
-      "state": "up",
-      "t": 5.15,
-      "key": "Four"
-    },
-    {
-      "state": "up",
-      "t": 5.15,
-      "key": "Six"
-    }
+    {"state": "down", "t": 2.433305, "key": "LeftShift"},
+    {"state": "down", "t": 2.435784, "key": "G"},
+    {"state": "up", "t": 2.447346, "key": "LeftShift"},
+    {"state": "down", "t": 2.457711, "key": "Nine"},
+    {"state": "up", "t": 2.48678, "key": "Nine"},
+    {"state": "up", "t": 2.548136, "key": "G"},
+    {"state": "down", "t": 2.714845, "key": "LeftShift"},
+    {"state": "down", "t": 2.716826, "key": "S"},
+    {"state": "up", "t": 2.727856, "key": "LeftShift"},
+    {"state": "down", "t": 2.734622, "key": "LeftShift"},
+    {"state": "down", "t": 2.736142, "key": "Q"},
+    {"state": "up", "t": 2.741922, "key": "LeftShift"},
+    {"state": "up", "t": 2.769665, "key": "Q"},
+    {"state": "up", "t": 2.810738, "key": "S"},
+    {"state": "down", "t": 2.999147, "key": "LeftShift"},
+    {"state": "down", "t": 3.000733, "key": "G"},
+    {"state": "up", "t": 3.003888, "key": "LeftShift"},
+    {"state": "down", "t": 3.009667, "key": "E"},
+    {"state": "up", "t": 3.044764, "key": "E"},
+    {"state": "up", "t": 3.092576, "key": "G"}
   ]
 }
