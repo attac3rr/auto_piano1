@@ -1,33 +1,138 @@
-{"createdAt":1778179999,"version":1,"events":[
-{"state":"down","t":0.00,"key":"Eight"},{"state":"up","t":0.10,"key":"Eight"},
-
-{"state":"down","t":0.20,"key":"R"},{"state":"up","t":0.32,"key":"R"},
-
-{"state":"down","t":0.44,"key":"W"},{"state":"up","t":0.56,"key":"W"},
-
-{"state":"down","t":0.68,"key":"T"},{"state":"up","t":0.80,"key":"T"},
-
-{"state":"down","t":0.92,"key":"U"},{"state":"up","t":1.06,"key":"U"},
-
-{"state":"down","t":1.18,"key":"Zero"},{"state":"up","t":1.30,"key":"Zero"},
-
-{"state":"down","t":1.42,"key":"R"},{"state":"up","t":1.54,"key":"R"},
-
-{"state":"down","t":1.66,"key":"W"},{"state":"up","t":1.78,"key":"W"},
-
-{"state":"down","t":1.90,"key":"Eight"},{"state":"up","t":2.02,"key":"Eight"},
-
-{"state":"down","t":2.14,"key":"R"},{"state":"up","t":2.26,"key":"R"},
-
-{"state":"down","t":2.38,"key":"T"},{"state":"up","t":2.50,"key":"T"},
-
-{"state":"down","t":2.62,"key":"U"},{"state":"up","t":2.74,"key":"U"},
-
-{"state":"down","t":2.86,"key":"Zero"},{"state":"up","t":2.98,"key":"Zero"},
-
-{"state":"down","t":3.10,"key":"R"},{"state":"up","t":3.22,"key":"R"},
-
-{"state":"down","t":3.34,"key":"W"},{"state":"up","t":3.46,"key":"W"},
-
-{"state":"down","t":3.58,"key":"Eight"},{"state":"up","t":3.70,"key":"Eight"}
-]}
+{
+  "name": "Матадор (DJ ASUL)",
+  "author": "Ганвест / DJ ASUL",
+  "type": "keyboard_macro",
+  "version": 1,
+  "events": [
+    {
+      "state": "down",
+      "t": 0.5,
+      "key": "Six"
+    },
+    {
+      "state": "up",
+      "t": 0.6,
+      "key": "Six"
+    },
+    {
+      "state": "down",
+      "t": 1.0,
+      "key": "Eight"
+    },
+    {
+      "state": "up",
+      "t": 1.1,
+      "key": "Eight"
+    },
+    {
+      "state": "down",
+      "t": 1.5,
+      "key": "Zero"
+    },
+    {
+      "state": "up",
+      "t": 1.6,
+      "key": "Zero"
+    },
+    {
+      "state": "down",
+      "t": 2.0,
+      "key": "E"
+    },
+    {
+      "state": "up",
+      "t": 2.1,
+      "key": "E"
+    },
+    {
+      "state": "down",
+      "t": 2.5,
+      "key": "R"
+    },
+    {
+      "state": "up",
+      "t": 2.6,
+      "key": "R"
+    },
+    {
+      "state": "down",
+      "t": 3.0,
+      "key": "Six"
+    },
+    {
+      "state": "down",
+      "t": 3.0,
+      "key": "Eight"
+    },
+    {
+      "state": "down",
+      "t": 3.0,
+      "key": "Zero"
+    },
+    {
+      "state": "up",
+      "t": 3.15,
+      "key": "Six"
+    },
+    {
+      "state": "up",
+      "t": 3.15,
+      "key": "Eight"
+    },
+    {
+      "state": "up",
+      "t": 3.15,
+      "key": "Zero"
+    },
+    {
+      "state": "down",
+      "t": 3.5,
+      "key": "T"
+    },
+    {
+      "state": "up",
+      "t": 3.6,
+      "key": "T"
+    },
+    {
+      "state": "down",
+      "t": 4.0,
+      "key": "R"
+    },
+    {
+      "state": "up",
+      "t": 4.1,
+      "key": "R"
+    },
+    {
+      "state": "down",
+      "t": 4.5,
+      "key": "E"
+    },
+    {
+      "state": "up",
+      "t": 4.6,
+      "key": "E"
+    },
+    {
+      "state": "down",
+      "t": 5.0,
+      "key": "Four"
+    },
+    {
+      "state": "down",
+      "t": 5.0,
+      "key": "Six"
+    },
+    {
+      "state": "up",
+      "t": 5.15,
+      "key": "Four"
+    },
+    {
+      "state": "up",
+      "t": 5.15,
+      "key": "Six"
+    }
+  ]
+}
